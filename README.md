@@ -40,6 +40,7 @@ bundle install
 
 3. Run the watch command
 ```bash
+cd WzlUI
 bundle exec guard
 ```
 The watch command will run until you exit. You can always restart it by running the command again.
