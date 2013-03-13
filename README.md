@@ -43,3 +43,8 @@ bundle install
 bundle exec guard
 ```
 The watch command will run until you exit. You can always restart it by running the command again.
+
+4. Install the Livereload Plugin. This works on Firefox, Chrome, and Safari. Follow this link to install
+```
+http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-
+```
