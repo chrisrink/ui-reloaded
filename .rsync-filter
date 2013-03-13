@@ -1,0 +1,12 @@
+# Veeva rsync filter
+
+- /WEB-INF/classes/
+- /WEB-INF/tags/
+- /WEB-INF/tlds/
+- /WEB-INF/lib/
+- /WEB-INF/spring/
+- /WEB-INF/web.xml
+- /WEB-INF/.DS_Store
+
+- /META-INF
+
